@@ -19,5 +19,3 @@ git java javascript mysql nodejs postgresql postman python R
 
 🔭 I’m currently working on Data Science and Software Development
 🌱 I’m currently learning Steampipe
-Languages and Tools:
-git java javascript mysql nodejs postgresql postman python R
